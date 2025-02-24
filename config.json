@@ -9,11 +9,11 @@
                "enabled": "1"
            },
            "Filmpertutti": {
-               "url": "https://filmpertutti.motorcycles",
+               "url": "https://filmpertuttiiii.nuovo.live",
                "enabled": "1"
            },
            "Tantifilm":{
-               "url": "https://www.tanti.bond",
+               "url": "https://tantifilm.name",
                "TF_ForwardProxy": "0",
                "TF_PROXY": "0",
                "enabled": "1"
@@ -22,7 +22,7 @@
                "enabled": "0"    
            },
           "LordChannel":{
-               "url":"https://lordchannel.net",
+               "url":"https://lordchannel.com",
                "enabled":"1"
           },
           "StreamingWatch":{
@@ -48,7 +48,7 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url":"https://guardaserietv.mom",
+              "url":"https://guardaserie.now",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
@@ -60,7 +60,7 @@
               "GH_PROXY":"0"
           },
           "Onlineserietv":{
-              "domain":"com",
+              "domain":"https://onlineserietv.com",
               "enabled":"1",
               "OST_ForwardProxy":"0",
               "OST_PROXY":"0"
