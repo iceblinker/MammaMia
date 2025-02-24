@@ -2,13 +2,20 @@
     "Siti": {
            "StreamingCommunity": {
                "url": "https://streamingcommunity.lu",
-               "active": true,
-               "find_videos": {
-                   "ignore_urls": [],
-                   "patterns": [
-                       ]  
-               },  
-               "free": true,  
+                 "active": true,
+  "find_videos": {
+    "ignore_urls": [],
+    "patterns": [
+    ]
+  },
+  "free": true,
+  "id": "streamingcommunityws",
+  "name": "StreamingCommunityWS",
+  "premium": [
+  ],
+  "settings": [
+  ]
+                 
                "id": "streamingcommunityws",  
                "name": "StreamingCommunityWS",
                "premium": [
