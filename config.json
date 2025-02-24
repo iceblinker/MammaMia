@@ -2,11 +2,19 @@
     "Siti": {
            "StreamingCommunity": {
                "url": "https://streamingcommunity.lu",
-               "SC_ForwardProxy": "0",
-               "SC_PROXY": "0",
-               "VX_ForwardProxy": "0",
-               "VX_PROXY": "0",
-               "enabled": "1"
+               "active": true,
+               "find_videos": {
+                   "ignore_urls": [],
+                   "patterns": [
+                       ]  
+               },  
+               "free": true,  
+               "id": "streamingcommunityws",  
+               "name": "StreamingCommunityWS",
+               "premium": [
+                   ],
+               "settings": [
+                   ]
            },
            "Filmpertutti": {
                "url": "https://filmpertuttiiii.nuovo.live",
