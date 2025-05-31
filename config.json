@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streamingunity.blog/",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -9,11 +9,11 @@
                "enabled": "1"
            },
            "Filmpertutti": {
-               "url": "https://filmpertutti.motorcycles",
+               "url": "https://filmpertutti.pizza",
                "enabled": "1"
            },
            "Tantifilm":{
-               "url": "https://www.tanti.bond",
+               "url": "https://www.tanti.top",
                "TF_ForwardProxy": "0",
                "TF_PROXY": "0",
                "enabled": "1"
@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
+              "url":"https://cb01net.download/",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -48,7 +48,19 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url":"https://guardaserietv.mom",
+              "url":"https://guardaserie.meme/",
+              "enabled":"1",
+              "GS_ForwardProxy":"0",
+              "GS_PROXY":"0"
+          },
+            "Altadefinizione":{
+              "url":"https://altadefinizionegratis.icu/",
+              "enabled":"1",
+              "GS_ForwardProxy":"0",
+              "GS_PROXY":"0"
+          },
+            "Filmsenzalimiti":{
+              "url":"https://filmsenzalimiti.food/",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
@@ -72,11 +84,11 @@
               "AW_PROXY":"0"
           },
           "SkyStreaming":{
-              "url":"https://skystreaming.watch",
+              "url":"https://skystreaming.yoga/",
               "enabled":"1"
           },
           "DaddyLiveHD":{
-              "url":"https://daddylive.mp",
+              "url":"https://daddylive.sx/",
               "enabled":"1"
           }
    },
